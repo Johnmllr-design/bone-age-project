@@ -1,0 +1,14 @@
+estimated bone age in months: 179
+estimated bone age in years: 14 years, 11 months
+estimated brush age in months: 189
+estimated brush age in years: 15 years, 9 months
+chronological age in months: 191
+chronological age in years: 15 years, 11 months
+maturity: normal
+two standard deviations in moths: 15
+expected age minus two standard deviations in months: 174
+expected 17 age minus two standard deviations in years: 14 years, 6 months
+expected age plus two standard deviations in months: 204
+expected age plus two standard deviations in years: 17 years, 0 months
+expected bone age relative to expected age in standard deviations: 1.34
+

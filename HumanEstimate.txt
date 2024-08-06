@@ -1,0 +1,66 @@
+Patient details
+
+Patient name: 
+MRN: 
+Birth date: 
+
+Study details
+
+Study description: LPCH XR HANDS BONE AGE STUDY
+Accession number:
+Referring physician:
+
+Report
+
+Radiology Report
+
+Patient Name : 
+
+Patient MRN : 
+
+Date of Birth : 
+
+Procedure Description : XR HANDS BONE AGE STUDY , Study Date :  , Accession Number : 
+
+Report Status : Final
+
+Report Interpretation
+
+RADIOGRAPHIC EXAMINATION OF THE HAND:  
+
+CLINICAL HISTORY: 15 years of age, Female, Hand film for bone age.
+
+COMPARISON: 
+
+PROCEDURE COMMENTS: Single radiograph of the left hand for estimation of skeletal age.
+
+FINDINGS:
+
+Sex: Female
+Date of birth: 
+Study date: 
+Chronologic age on study date: 15 years, 11 months (191 months)
+
+By the method of Greulich and Pyle, the bone age is estimated as 14 years, 11 months (179 months).
+
+At the above chronologic age, using the Brush Foundation data, the mean bone age for calculation is 15 years, 9 months (189 months).
+
+Two standard deviations at this age is 15 months, giving a normal range of 174 to 204 months (+/- 2 standard deviations).
+
+IMPRESSION:
+
+1. Estimated bone age: 14 years, 11 months
+
+2. The estimated bone age is normal (1.34 standard deviations below the mean).
+
+
+Interpreted by Attending Radiologist: 
+
+I, the attending signed below, have personally reviewed the images and agree with the report transcribed above.
+
+Interpreted by Attending Radiologist: 
+
+Electronically Signed: 
+
+Authored By : 
+Approval Date : 

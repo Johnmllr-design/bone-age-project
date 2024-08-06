@@ -1,0 +1,3 @@
+the human age estimate is 14 years and 11 months
+the computer segmentation model age estimate is 14 years and 11 months
+these ages differ by 0.0 years
